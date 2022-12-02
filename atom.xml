@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://herisz.github.io</id>
-    <title>Hexo</title>
+    <title>黑羊牧场</title>
+    <subtitle>oc存放点</subtitle>
+    <icon>https://herisz.github.io/images/favicon.ico</icon>
     <link href="https://herisz.github.io" />
-    <updated>2022-12-01T18:48:43.784Z</updated>
+    <author>
+      <name>禾日勺子</name>
+    </author>
+    <updated>2022-12-01T22:00:23.000Z</updated>
+    <entry>
+        <id>https://herisz.github.io/2022/12/02/My-New-Post/</id>
+        <title>My New Post</title>
+        <link rel="alternate" href="https://herisz.github.io/2022/12/02/My-New-Post/"/>
+        <content type="html">&lt;p&gt;测试测试！&lt;/p&gt;
+&lt;p&gt;擦拭&lt;/p&gt;
+&lt;p&gt;嗡嗡嗡&lt;/p&gt;
+</content>
+        <category term="测试" scheme="https://herisz.github.io/tags/%E6%B5%8B%E8%AF%95/" />
+        <updated>2022-12-01T22:00:23.000Z</updated>
+    </entry>
     <entry>
         <id>https://herisz.github.io/2022/12/02/hello-world/</id>
         <title>Hello World</title>

@@ -1,9 +1,21 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "description": "",
+    "title": "黑羊牧场",
+    "subtitle": "oc存放点",
+    "icon": "https://herisz.github.io/images/favicon.ico",
+    "description": "堆放各种杂物",
     "home_page_url": "https://herisz.github.io",
     "items": [
+        {
+            "id": "https://herisz.github.io/2022/12/02/My-New-Post/",
+            "url": "https://herisz.github.io/2022/12/02/My-New-Post/",
+            "title": "My New Post",
+            "date_published": "2022-12-01T22:00:23.000Z",
+            "content_html": "<p>测试测试！</p>\n<p>擦拭</p>\n<p>嗡嗡嗡</p>\n",
+            "tags": [
+                "测试"
+            ]
+        },
         {
             "id": "https://herisz.github.io/2022/12/02/hello-world/",
             "url": "https://herisz.github.io/2022/12/02/hello-world/",

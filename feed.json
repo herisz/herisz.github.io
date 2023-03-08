@@ -166,7 +166,7 @@
             "url": "https://herisz.github.io/2013/12/26/images/",
             "title": "Images",
             "date_published": "2013-12-26T14:46:49.000Z",
-            "content_html": "<p>This is a image test post.</p>\n<p><img data-src=\"/assets/wallpaper-2572384.jpg\" alt=\"\" /></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\" /></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\" /></p>\n<p><img data-src=\"https://placehold.it/350x150.jpg\" alt=\"Small Picture\" /></p>\n",
+            "content_html": "<p>This is a image test post.</p>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/herisz/-img@main/r4.png\" alt=\"\" /></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\" /></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\" /></p>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/herisz/-img@main/r4.png\" alt=\"Small Picture\" /></p>\n",
             "tags": []
         },
         {
